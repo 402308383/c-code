@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 print，函数 main 中引用了该符号
+E:\project_c\6_13\x64\Debug\6_13.exe : fatal error LNK1120: 1 个无法解析的外部命令

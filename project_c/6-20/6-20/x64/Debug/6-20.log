@@ -1,0 +1,18 @@
+﻿  test1.cpp
+E:\project_c\6-20\6-20\test1.cpp(11,21): warning C4566: 由通用字符名称“\u8BED”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(11,21): warning C4566: 由通用字符名称“\u8A00”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(11,21): warning C4566: 由通用字符名称“\u7A0B”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(11,21): warning C4566: 由通用字符名称“\u5E8F”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(11,21): warning C4566: 由通用字符名称“\u8BBE”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(11,21): warning C4566: 由通用字符名称“\u8BA1”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(12,9): warning C4566: 由通用字符名称“\u4E66”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(12,9): warning C4566: 由通用字符名称“\u540D”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(12,9): warning C4566: 由通用字符名称“\uFF1A”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(12,9): warning C4476: "printf": 格式说明符中的类型字段字符“?”未知
+E:\project_c\6-20\6-20\test1.cpp(13,9): warning C4566: 由通用字符名称“\u4EF7”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(13,9): warning C4566: 由通用字符名称“\u683C”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(13,9): warning C4566: 由通用字符名称“\uFF1A”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-20\6-20\test1.cpp(13,9): warning C4476: "printf": 格式说明符中的类型字段字符“?”未知
+E:\project_c\6-20\6-20\test1.cpp(13,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\project_c\6-20\6-20\test1.cpp(13,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  6-20.vcxproj -> E:\project_c\6-20\x64\Debug\6-20.exe

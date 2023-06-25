@@ -1,0 +1,4 @@
+﻿  test1.cpp
+E:\project_c\6-23\6-23\test1.cpp(13,9): warning C4566: 由通用字符名称“\uFF08”表示的字符不能在当前代码页(1252)中表示出来
+E:\project_c\6-23\6-23\test1.cpp(13,9): warning C4566: 由通用字符名称“\uFF09”表示的字符不能在当前代码页(1252)中表示出来
+  6-23.vcxproj -> E:\project_c\6-23\x64\Debug\6-23.exe
