@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<Windows.h>
+#include<string.h>
 #include<stdlib.h>
 
 //password input;
@@ -13,8 +14,8 @@ int main()
 	for (i = 0; i < 3; i++)
 	{
 		printf("请输入密码->\n");
-		scanf("%s", input);
-		if (pswd == input)//判断字符串的相等不能使用==，而应使用
+		scanf("%s", &input);
+		if (strcmp(input,"123456")==0)//判断字符串的相等不能使用==，而应使用一个库函数-strcmp,#include<string.h>.返回值等于0（当两个字符串相等）
 		{
 			printf("密码正确\n");
 			break;
@@ -29,20 +30,6 @@ int main()
 
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //welcome to bit!!!!-18
 //eg,
@@ -68,7 +55,6 @@ int main()
 //	return 0;
 //}
 
-
 //int main()//(自写)
 //{
 //
@@ -89,7 +75,6 @@ int main()
 //
 //	return 0;
 //}
-
 
 //int main()
 //{
