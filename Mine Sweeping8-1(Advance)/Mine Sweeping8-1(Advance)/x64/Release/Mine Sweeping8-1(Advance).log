@@ -1,0 +1,6 @@
+﻿x64\Release\game.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+test.obj : error LNK2001: 无法解析的外部符号 setmines
+test.obj : error LNK2001: 无法解析的外部符号 findmine
+test.obj : error LNK2001: 无法解析的外部符号 initboard
+test.obj : error LNK2001: 无法解析的外部符号 displayboard
+D:\C-CODE\Mine Sweeping8-1(Advance)\x64\Release\Mine Sweeping8-1(Advance).exe : fatal error LNK1120: 4 个无法解析的外部命令
