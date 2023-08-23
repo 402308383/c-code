@@ -1,0 +1,7 @@
+﻿  test.c
+D:\C-CODE\8-22\8-22\test.c(6,14): warning C4098: “Add”:“void”函数返回值
+D:\C-CODE\8-22\8-22\test.c(18,16): warning C4087: “pf”: 用“void”参数列表声明
+D:\C-CODE\8-22\8-22\test.c(17,8): warning C4113: “void (__cdecl *)(int,int)”和“int (__cdecl *)(void)”的参数列表不同
+D:\C-CODE\8-22\8-22\test.c(17,8): warning C4133: “初始化”: 从“void (__cdecl *)(int,int)”到“int (__cdecl *)(void)”的类型不兼容
+D:\C-CODE\8-22\8-22\test.c(21,8): warning C4047: “初始化”:“char *”与“char **”的间接级别不同
+  8-22.vcxproj -> D:\C-CODE\8-22\x64\Debug\8-22.exe
