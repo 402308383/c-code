@@ -1,0 +1,8 @@
+﻿  test.c
+D:\C-CODE\9-21\9-21\test.c(12,14): warning C4090: “return”: 不同的“const”限定符
+D:\C-CODE\9-21\9-21\test.c(17,12): warning C4090: “=”: 不同的“const”限定符
+D:\C-CODE\9-21\9-21\test.c(18,33): warning C4047: “!=”:“char *”与“int”的间接级别不同
+D:\C-CODE\9-21\9-21\test.c(7,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\C-CODE\9-21\9-21\test.c(8,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\C-CODE\9-21\9-21\test.c(9,8): warning C4090: “初始化”: 不同的“const”限定符
+  9-21.vcxproj -> D:\C-CODE\9-21\x64\Debug\9-21.exe
