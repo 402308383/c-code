@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C-CODE\10-5\10-5\test.c(7,11): warning C4305: “初始化”: 从“int”到“char”截断
+  10-5.vcxproj -> D:\C-CODE\10-5\x64\Debug\10-5.exe
