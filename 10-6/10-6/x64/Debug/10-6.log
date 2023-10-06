@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C-CODE\10-6\10-6\test.c(99,6): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C-CODE\10-6\10-6\test.c(102,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  10-6.vcxproj -> D:\C-CODE\10-6\x64\Debug\10-6.exe
