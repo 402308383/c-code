@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C-CODE\10-29\10-29\test.c(20): warning C4715: “f”: 不是所有的控件路径都返回值
+  10-29.vcxproj -> D:\C-CODE\10-29\x64\Debug\10-29.exe
