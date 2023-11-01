@@ -1,0 +1,4 @@
+﻿  SeqList.c
+D:\C-CODE\11-1\11-1\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x1c8 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\C-CODE\11-1\11-1\SeqList.c(26,12): warning C4098: “SLPushBack”:“void”函数返回值
+  11-1.vcxproj -> D:\C-CODE\11-1\x64\Debug\11-1.exe
