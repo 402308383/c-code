@@ -1,0 +1,1 @@
+#define CAT_SECURE_NO_WARNINGS

@@ -1,0 +1,8 @@
+﻿  SeqList.c
+F:\C-CODE\11-5(SeqList)\11-5(SeqList)\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x26c 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\C-CODE\11-5(SeqList)\11-5(SeqList)\SeqList.c(32,12): warning C4098: “SLCheckCapacity”:“void”函数返回值
+F:\C-CODE\11-5(SeqList)\11-5(SeqList)\SeqList.c(66,6): error C2084: 函数“void SLPrint(SL *)”已有主体
+F:\C-CODE\11-5(SeqList)\11-5(SeqList)\SeqList.c(7,6): message : 参见“SLPrint”的前一个定义
+  test.c
+F:\C-CODE\11-5(SeqList)\11-5(SeqList)\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x26c 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...

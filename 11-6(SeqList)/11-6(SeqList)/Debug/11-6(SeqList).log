@@ -1,0 +1,6 @@
+﻿  SeqList.c
+F:\C-CODE\11-6(SeqList)\11-6(SeqList)\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x26c 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\C-CODE\11-6(SeqList)\11-6(SeqList)\SeqList.c(32,12): warning C4098: “SLCheckCapacity”:“void”函数返回值
+F:\C-CODE\11-6(SeqList)\11-6(SeqList)\SeqList.c(63,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\C-CODE\11-6(SeqList)\11-6(SeqList)\SeqList.c(79,23): warning C4018: “<”: 有符号/无符号不匹配
+  11-6(SeqList).vcxproj -> F:\C-CODE\11-6(SeqList)\Debug\11-6(SeqList).exe
