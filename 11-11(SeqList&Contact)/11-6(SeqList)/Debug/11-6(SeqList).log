@@ -1,0 +1,4 @@
+﻿  test.c
+Z:\代码\C-CODE\11-11(SeqList&Contact)\11-6(SeqList)\SeqList.h(3,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+Z:\代码\C-CODE\11-11(SeqList&Contact)\11-6(SeqList)\Contact.h(2,1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  11-6(SeqList).vcxproj -> Z:\代码\C-CODE\11-11(SeqList&Contact)\Debug\11-6(SeqList).exe
